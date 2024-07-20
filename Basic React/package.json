@@ -1,0 +1,18 @@
+{
+  "name": "basic-react",
+  "version": "1.0.0",
+  "description": "This app is make by Yogesh.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/YogeshBhagwat97/React.git)"
+  },
+  "author": "Yogesh Bhagwat",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
